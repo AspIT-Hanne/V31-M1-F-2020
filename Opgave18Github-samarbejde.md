@@ -1,4 +1,4 @@
-# Opgave 16 - GitHub samarbejde
+# Opgave 18 - GitHub samarbejde
 
 I denne opgave skal du være contributor på mit GitHub repository V31-M1-F-2020.
 
