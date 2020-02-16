@@ -14,7 +14,7 @@ Du kan nu oprette et nyt pull request på dit løsningsforslag.
 
 Tjek ofte om andre har lavet pull requests på nogle af de andre issues. Hvis der er det, skal du se de andres løsningsforslag igennem og kommentere på det.
 
-Du må gerne arbejde på et issue, som andre også sidder og arbejder på. Så vil kommentarerne på pull requesten afgøre, hvilket af løsningsforslagene, som ender med at blive merged in i master branchen.
+Du må gerne arbejde på et issue, som andre også sidder og arbejder på. Så vil kommentarerne på pull requesten afgøre, hvilket af løsningsforslagene, som ender med at blive merged ind i master branchen.
 
 Ved slutningen af dagen kigger vi sammen de forskellige løsningsforslag igennem og bliver enige om, hvilket vi vil merge til master branchen.
 
