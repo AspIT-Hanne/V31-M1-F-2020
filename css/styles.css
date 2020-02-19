@@ -74,7 +74,7 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #2F3061;
+  background: #9092A5;
   color: #F7FFF7;
 }
 
@@ -82,7 +82,7 @@ header {
 /* Projects
 ------------------------------------*/
 .projects {
-  background: #F7FFF7;
+  background: #EDD077;
 }
 .projects a {
   color: #2F3061;
@@ -109,10 +109,8 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #A1C6D7;
+  background: #789BB0;
 }
-
-
 
 /* Education
 ------------------------------------*/
