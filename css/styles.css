@@ -112,7 +112,9 @@ header {
   background: #A1C6D7;
 }
 
-
+.work-experience a{
+  color: #D98E04;
+}
 
 /* Education
 ------------------------------------*/
