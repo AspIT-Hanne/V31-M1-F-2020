@@ -74,7 +74,7 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #2F3061;
+  background: rgb(29, 68, 100);
   color: #F7FFF7;
   font-size: 1.3rem;
 }
@@ -118,7 +118,7 @@ header {
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(../images/joanna-kosinska-unsplash-lighterlightgreen.jpg);
+  background-image: url(../images/joanna-kosinska-unsplash-lighterlightgreenps.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
